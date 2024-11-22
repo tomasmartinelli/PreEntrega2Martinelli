@@ -1,0 +1,15 @@
+
+*.log
+*.tmp
+
+
+/node_modules/
+/dist/
+
+
+.env
+config/secrets.json
+
+
+*.bak
+*.swp
